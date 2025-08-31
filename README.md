@@ -1,8 +1,8 @@
-<img width="2736" height="1744" alt="image" src="https://github.com/user-attachments/assets/fcc6d31f-d6bb-462b-8b41-af1229f7c4d3" /># HR Analysis Dashboard
-## Objective
+
+## Project Objective
 Analyze employee data to provide HR with insights on attrition trends and active workforce details.
 ## Tools Used
-Power BI, SQL, Excel
+Power BI, SQL, Excel for data preprocessing, data cleaning and data visulization. 
 ## Introduction
 This dashboard explores employee trends to understand why people stay or leave. The goal is to help HR quickly spot problem areas and improve retention.
 ## Dataset
