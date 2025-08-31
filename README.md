@@ -55,12 +55,13 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>- Custom <b>menu with page navigation</b>(Home, Attrition, Active Employees).
 
 ## Project Images
+### Home
 ![Page 1 - Home](https://github.com/user-attachments/assets/010881f8-891b-416a-afa4-53da76efae47)
-<br>
+### Attrition Rrport
 ![Page 2 - Attrition Report](https://github.com/user-attachments/assets/8a4b7c6b-d71d-4762-9949-db064e01fa6c)
-<br>
+### Active Employees Details
 ![Page 3 - Active Employee Details](https://github.com/user-attachments/assets/f289a97d-565c-4494-b109-f5571dd68503)
-<br>
+### Menu Page
 ![Page 4 - Menu](https://github.com/user-attachments/assets/b18440e9-a4d8-4239-9f37-c5ca94c52447)
 
 ## Project Insight
