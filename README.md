@@ -14,12 +14,12 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>
 <br>
 <b>Visuals:</b>
-<br>Tree Map → Gender distribution
-<br>Pie Chart → Employees by Department
-<br>Map → Employees by City & State (with slicers: Division & City)
-<br>Line Chart → Employees by Age
-<br>Clustered Column → Employees by Salary
-<br>Area Chart → Employees by Years (with Year/Month slicers)
+<br>- Tree Map → Gender distribution
+<br>- Pie Chart → Employees by Department
+<br>- Map → Employees by City & State (with slicers: Division & City)
+<br>- Line Chart → Employees by Age
+<br>- Clustered Column → Employees by Salary
+<br>- Area Chart → Employees by Years (with Year/Month slicers)
 
 ### Page 2: Attrition Report
 <b>KPIs:</b>
@@ -35,3 +35,19 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>- Bar Chart → Attrition Reasons
 <br>- Area Chart → Attrition by Years (with Year/Month slicers)
 <br>- Column Chart → Attrition by Job Role (Top 5)
+
+### Page 3: Active Employees Details
+<b>KPIs:</b>
+<br>Total Active Employees, Active Rate, Avg Experience, Avg Salary, Avg Age
+<br>
+<br>
+<b>Visuals:</b>
+<br>- Tree Map & Department slicer
+<br>- Donut Chart → Active Employees Background
+<br>- Matrix → Job Satisfaction of active employees
+<br>- Stacked Bar → Active Employees by Salary
+<br>- Column Chart → Active Employees by Age
+<br>- Bar Chart → Active Employees by Experience
+<br>- Area Chart → Active Employees by Years (with slicers)
+<br>- Column Chart → Active Employees by Job Role (Top 5)
+
