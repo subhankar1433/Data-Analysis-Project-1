@@ -51,3 +51,27 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>- Area Chart → Active Employees by Years (with slicers)
 <br>- Column Chart → Active Employees by Job Role (Top 5)
 
+### Menu Page: Navigation
+Custom <b>menu with page navigation</b>(Home, Attrition, Active Employees).
+
+## Project Images
+<a href= https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Project%20Output/Page%201%20-%20Home.jpg>Home Page</a>
+![Page 1 - Home](https://github.com/user-attachments/assets/010881f8-891b-416a-afa4-53da76efae47)
+<br>
+<a href=https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Project%20Output/Page%202%20-%20Attrition%20Report.jpg>Attrition Report</a>
+![Page 2 - Attrition Report](https://github.com/user-attachments/assets/8a4b7c6b-d71d-4762-9949-db064e01fa6c)
+<br>
+<a href=https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Project%20Output/Page%203%20-%20Active%20Employee%20Details.jpg>Active Employee Details</a>
+![Page 3 - Active Employee Details](https://github.com/user-attachments/assets/f289a97d-565c-4494-b109-f5571dd68503)
+<br>
+<a href=https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Project%20Output/Page%204%20-%20Menu.jpg>Menu Page</a>
+![Page 4 - Menu](https://github.com/user-attachments/assets/b18440e9-a4d8-4239-9f37-c5ca94c52447)
+
+## Project Insight
+<br>- Attrition is <b>higher among Bachelor’s</b> and <b>Master’s graduates</b> compared to High School and PhD.
+<br>- Employees in the <b>26–45 age group</b>, especially <b>in top salary bands</b>, are leaving for better career growth.
+<br>- <b>HR, Recruitment, and Operations roles</b> saw major exits after 2016 and again in <b>2024</b>, showing leadership gaps.
+<br>- <b>Absconding cases dropped</b> after 2020, and <b>job security improved</b> post-2021.
+<br>- In 2024, many left mainly for <b>better pay</b>.
+<br>- <b>Reviews</b> show dissatisfaction in HR, Sales, and Support, within the people leaving.
+<br>- Workforce is strong among employees with <b>7–10 years of experience</b>, and the <b>South Division</b> (Bangalore, Chennai, Hyderabad) grew rapidly after 2020.
