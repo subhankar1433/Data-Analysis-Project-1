@@ -8,7 +8,7 @@ This dashboard explores employee trends to understand why people stay or leave. 
 ## Dataset
 <a href=https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Employees.csv>Employee Table</a>
 ## About the Dashboard
-### 1. Home Page (Overview)
+### Page 1: Home (Overview)
 <b>KPIs:</b> 
 <br>Total Employees, Active Employees & Rate, Employees Left & Rate, Salary (Max/Min/Avg), Experience (Max/Min/Avg).
 <br>
@@ -21,3 +21,17 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>Clustered Column → Employees by Salary
 <br>Area Chart → Employees by Years (with Year/Month slicers)
 
+### Page 2: Attrition Report
+<b>KPIs:</b>
+<br>Total Attrition, Attrition Rate, Avg Experience, Avg Salary, Avg Age
+<br>
+<br>
+<b>Visuals:</b> 
+<br>- Tree Map & Department slicer
+<br>- Donut Chart → Attrition by Employee Background
+<br>- Matrix → Job Satisfaction of employees who left
+<br>- Stacked Bar → Attrition vs Salary
+<br>- Column Chart → Attrition by Age
+<br>- Bar Chart → Attrition Reasons
+<br>- Area Chart → Attrition by Years (with Year/Month slicers)
+<br>- Column Chart → Attrition by Job Role (Top 5)
