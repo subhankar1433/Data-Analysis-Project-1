@@ -10,7 +10,7 @@ This dashboard explores employee trends to understand why people stay or leave. 
 ## About the Dashboard
 ### Page 1: Home (Overview)
 <b>KPIs:</b> 
-<br>Total Employees, Active Employees & Rate, Employees Left & Rate, Salary (Max/Min/Avg), Experience (Max/Min/Avg).
+<br>- Total Employees, Active Employees & Rate, Employees Left & Rate, Salary (Max/Min/Avg), Experience (Max/Min/Avg).
 <br>
 <br>
 <b>Visuals:</b>
@@ -23,7 +23,7 @@ This dashboard explores employee trends to understand why people stay or leave. 
 
 ### Page 2: Attrition Report
 <b>KPIs:</b>
-<br>Total Attrition, Attrition Rate, Avg Experience, Avg Salary, Avg Age
+<br>- Total Attrition, Attrition Rate, Avg Experience, Avg Salary, Avg Age
 <br>
 <br>
 <b>Visuals:</b> 
@@ -38,7 +38,7 @@ This dashboard explores employee trends to understand why people stay or leave. 
 
 ### Page 3: Active Employees Details
 <b>KPIs:</b>
-<br>Total Active Employees, Active Rate, Avg Experience, Avg Salary, Avg Age
+<br>- Total Active Employees, Active Rate, Avg Experience, Avg Salary, Avg Age
 <br>
 <br>
 <b>Visuals:</b>
@@ -52,7 +52,7 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>- Column Chart → Active Employees by Job Role (Top 5)
 
 ### Menu Page: Navigation
-Custom <b>menu with page navigation</b>(Home, Attrition, Active Employees).
+- Custom <b>menu with page navigation</b>(Home, Attrition, Active Employees).
 
 ## Project Images
 <a href= https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Project%20Output/Page%201%20-%20Home.jpg>Home Page</a>
