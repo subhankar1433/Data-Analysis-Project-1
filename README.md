@@ -11,6 +11,7 @@ This dashboard explores employee trends to understand why people stay or leave. 
 ### 1. Home Page (Overview)
 <b>KPIs:</b> 
 <br>Total Employees, Active Employees & Rate, Employees Left & Rate, Salary (Max/Min/Avg), Experience (Max/Min/Avg).
+<br>
 <b>Visuals:</b>
 <br>Tree Map → Gender distribution
 <br>Pie Chart → Employees by Department
