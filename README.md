@@ -1,4 +1,4 @@
-# HR Analysis Dashboard
+<img width="2736" height="1744" alt="image" src="https://github.com/user-attachments/assets/fcc6d31f-d6bb-462b-8b41-af1229f7c4d3" /># HR Analysis Dashboard
 ## Objective
 Analyze employee data to provide HR with insights on attrition trends and active workforce details.
 ## Tools Used
@@ -75,3 +75,9 @@ Custom <b>menu with page navigation</b>(Home, Attrition, Active Employees).
 <br>- In 2024, many left mainly for <b>better pay</b>.
 <br>- <b>Reviews</b> show dissatisfaction in HR, Sales, and Support, within the people leaving.
 <br>- Workforce is strong among employees with <b>7–10 years of experience</b>, and the <b>South Division</b> (Bangalore, Chennai, Hyderabad) grew rapidly after 2020.
+
+## MySQL Operations
+<a href = https://github.com/subhankar1433/Data-Analysis-Project-1/blob/main/Project%201%20-%20HR%20Analysis%20Dashboard/Sql%20Queries.docx>Please Find the file to download</a>
+
+## Project Conclusion
+Overall, attrition is driven by <b>career growth and salary concerns</b>, with HR and Operations roles most affected. At the same time, <b>absconding has reduced, job security has improved, and employee strength is growing in South India</b> as good progress that HR strategies are making an impact, though salary expectations and leadership issues remain to be more improved in the future.
