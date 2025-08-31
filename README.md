@@ -42,14 +42,14 @@ This dashboard explores employee trends to understand why people stay or leave. 
 <br>
 <br>
 <b>Visuals:</b>
-<br>- Tree Map & Department slicer
-<br>- Donut Chart → Active Employees Background
-<br>- Matrix → Job Satisfaction of active employees
-<br>- Stacked Bar → Active Employees by Salary
-<br>- Column Chart → Active Employees by Age
-<br>- Bar Chart → Active Employees by Experience
-<br>- Area Chart → Active Employees by Years (with slicers)
-<br>- Column Chart → Active Employees by Job Role (Top 5)
+- Tree Map & Department slicer
+- Donut Chart → Active Employees Background
+- Matrix → Job Satisfaction of active employees
+- Stacked Bar → Active Employees by Salary
+- Column Chart → Active Employees by Age
+- Bar Chart → Active Employees by Experience
+- Area Chart → Active Employees by Years (with slicers)
+- Column Chart → Active Employees by Job Role (Top 5)
 
 ### Menu Page: Navigation
 - Custom <b>menu with page navigation</b>(Home, Attrition, Active Employees).
